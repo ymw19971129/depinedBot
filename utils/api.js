@@ -6,7 +6,7 @@ const userAgent = randomUseragent.getRandom();
 const headers = {
     'accept': 'application/json',
     'user-agent': userAgent,
-    Origin: "chrome-extension://pjlappmodaidbdjhmhifbnnmmkkicjoc",
+    "Origin": "chrome-extension://pjlappmodaidbdjhmhifbnnmmkkicjoc",
     "Content-Length": 18,
 };
 
